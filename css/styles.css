@@ -166,7 +166,6 @@ img {
   transition: color 250ms var(--transition-timing-function),
     fill 250ms var(--transition-timing-function);
 }
-}
 
 .contacts-logo-svg {
   margin-right: 10px;
